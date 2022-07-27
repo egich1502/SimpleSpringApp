@@ -1,2 +1,3 @@
 # SimpleSpringApp
-Simplest Spring CRUD application driven by Tomcat
+Простейшее CRUD приложение написанное с использованием Spring.
+Весь функционал расположен на странице /people
